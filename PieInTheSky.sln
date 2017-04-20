@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieInTheSky.Web", "PieInTheSky.Web\PieInTheSky.Web.csproj", "{94A87AC6-6313-4FE5-B5EE-ED518DD0B2AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieInTheSky.Domain", "PieInTheSky.Domain\PieInTheSky.Domain.csproj", "{D7DC41DF-6056-4B12-84AA-A914064D005C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieInTheSky.Persistence", "PieInTheSky.Persistence\PieInTheSky.Persistence.csproj", "{329704D0-1E3D-4B1C-AB73-BFC49D356E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieInTheSky.DTO", "PieInTheSky.DTO\PieInTheSky.DTO.csproj", "{CDA43983-4622-423D-B28E-63F331C187C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94A87AC6-6313-4FE5-B5EE-ED518DD0B2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A87AC6-6313-4FE5-B5EE-ED518DD0B2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A87AC6-6313-4FE5-B5EE-ED518DD0B2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A87AC6-6313-4FE5-B5EE-ED518DD0B2AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7DC41DF-6056-4B12-84AA-A914064D005C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7DC41DF-6056-4B12-84AA-A914064D005C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7DC41DF-6056-4B12-84AA-A914064D005C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7DC41DF-6056-4B12-84AA-A914064D005C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329704D0-1E3D-4B1C-AB73-BFC49D356E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329704D0-1E3D-4B1C-AB73-BFC49D356E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329704D0-1E3D-4B1C-AB73-BFC49D356E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329704D0-1E3D-4B1C-AB73-BFC49D356E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA43983-4622-423D-B28E-63F331C187C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA43983-4622-423D-B28E-63F331C187C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA43983-4622-423D-B28E-63F331C187C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA43983-4622-423D-B28E-63F331C187C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
