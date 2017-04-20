@@ -1,5 +1,5 @@
-Simple example of a C# .Net application which utilizes the following:
-Data Transfer Objects (DTO) and separation of concerns
-Class Single Responsibility Principles
-Entity Framework for data Persistence
-Bootstrap functionality
+Code samples from a C# .Net application which utilizes:
+--Data Transfer Objects (DTO) and separation of concerns
+--Class Single Responsibility Principles
+--Entity Framework for data Persistence
+--Bootstrap functionality
